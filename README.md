@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HEMANTH REDDY BANDI</h1>
 <h3 align="center">I have a strong passion for full-stack development and AI/ML, and I am continuously working on enhancing my technical and problem-solving skills.</h3>
-<img align="center" src="download (2).jpg" style="width:100%; height:50%" alt="pic"/>
+<img align="center" src="download (2).jpg" style="width:100%; height:40px" alt="pic"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthreddybandi&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthreddybandi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthreddybandi" alt="hemanthreddybandi" /></a> </p>
