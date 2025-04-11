@@ -1,0 +1,49 @@
+git command to create repository
+---------------------------
+       > gh repo create your-repo-name
+
+ or create from GitHub portal 
+--------------------------------
+
+git command to push local folder to repository
+-------------------------------------------------
+       cd your-local-folder
+	> git init
+        > git add .
+        > git commit -m "Initial commit"
+	> git branch -M main  # Optional: rename current branch to main
+        > git remote add origin https://github.com/your-username/your-repo.git
+        > git push -u origin main
+--------------------------------------------------
+
+git command to pull from GitHub
+---------------------------------
+	> cd path/to/your/folder
+	> git clone https://github.com/username/repo-name.git
+	> cd repo-name
+code .
+
+🔹 Option 2: Using VS Code GUI (without terminal)
+
+1. Open VS Code
+
+2. Go to View > Command Palette or press Ctrl + Shift + P
+
+3. Type: Git: Clone
+
+4. Paste the GitHub repository URL
+
+5. Choose the local folder where you want to save it
+
+6. After cloning, click "Open" to open the folder in VS Code
+
+
+if git is in another branch
+-----------------------------
+ 	> git clone https://github.com/HemanthReddyBandi/responsive_portfolio.git
+	> cd responsive_portfolio
+	> git branch -a
+	> git checkout master
+	> git pull origin master
+
+
