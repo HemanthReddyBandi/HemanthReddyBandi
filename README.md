@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hemanth.in22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MKOrmaCcfWFgJ_Ektg0ZQNBtZ3_UhMri/view?usp=drive_link](https://drive.google.com/file/d/1MKOrmaCcfWFgJ_Ektg0ZQNBtZ3_UhMri/view?usp=drive_link)
+<!-- 📄 Know about my experiences [https://drive.google.com/file/d/1MKOrmaCcfWFgJ_Ektg0ZQNBtZ3_UhMri/view?usp=drive_link](https://drive.google.com/file/d/1MKOrmaCcfWFgJ_Ektg0ZQNBtZ3_UhMri/view?usp=drive_link)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
