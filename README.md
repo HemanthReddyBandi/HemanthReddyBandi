@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DSA,MERN STACK,PYTHON LIBRARIES AND MACHINE LEARNING**
 
-- 👨‍💻 All of my projects are available at [https://hemanthreddybandi.github.io/PORTFOLIO/portfolio/html%20files/index.html](https://hemanthreddybandi.github.io/PORTFOLIO/portfolio/html%20files/index.html)
+- 👨‍💻 All of my projects are available at: [hemanthreddybandi.github.io/responsive_portfolio](https://hemanthreddybandi.github.io/responsive_portfolio/)
 
-- 📝 I regularly write articles on [https://linktr.ee/Hemu_Prince?utm_source=linktree_profile_share&ltsid=2e01d99b-9e36-4868-b6ed-026dd556ad9b](https://linktr.ee/Hemu_Prince?utm_source=linktree_profile_share&ltsid=2e01d99b-9e36-4868-b6ed-026dd556ad9b)
+- 📝 I regularly share insights and trending tech at: [linktr.ee/BHR.Chronicle](https://linktr.ee/BHR.Chronicle)
 
 - 📫 How to reach me **hemanth.in22@gmail.com**
 
