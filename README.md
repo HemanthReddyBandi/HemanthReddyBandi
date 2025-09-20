@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HEMANTH REDDY BANDI</h1>
-<h3 align="center">I have a strong passion for full-stack development and AI/ML, and I am continuously working on enhancing my technical and problem-solving skills.</h3>
+<h3 align="center">I’m deeply driven by technology’s potential to solve real-world problems. Whether it’s building smart systems or crafting intuitive web interfaces, I focus on writing clean, efficient, and scalable code. I continuously invest in sharpening my problem-solving skills and deepening my expertise in AI and ML, aiming to develop solutions that are not just functional—but intelligent.</h3>
 <img align="center" src="download (2).jpg" style="width:100%; height:50vh; opacity:20%" alt="pic"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthreddybandi&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthreddybandi" /> </p>
 
