@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA,MERN STACK,PYTHON LIBRARIES AND MACHINE LEARNING**
 
-- 👨‍💻 All of my projects are available at: [hemanthreddybandi.github.io/responsive_portfolio](https://hemanthreddybandi.github.io/responsive_portfolio/)
+- 👨‍💻 All of my projects are available at: [hemanthreddybandi.github.io/responsive_portfolio](https://hemanthreddybandi.github.io/MY_portfolio/)
 
 - 📝 I regularly share insights and trending tech at: [linktr.ee/BHR.Chronicle](https://linktr.ee/BHR.Chronicle)
 
