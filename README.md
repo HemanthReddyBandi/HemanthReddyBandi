@@ -1,37 +1,216 @@
-<h1 align="center">Hi 👋, I'm HEMANTH REDDY BANDI</h1>
-<h3 align="center">I’m deeply driven by technology’s potential to solve real-world problems. Whether it’s building smart systems or crafting intuitive web interfaces, I focus on writing clean, efficient, and scalable code. I continuously invest in sharpening my problem-solving skills and deepening my expertise in AI and ML, aiming to develop solutions that are not just functional—but intelligent.</h3>
-<img align="center" src="download (2).jpg" style="width:100%; height:50vh; opacity:20%" alt="pic"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthreddybandi&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthreddybandi" /> </p>
+# 👋 Hi, I'm Hemanth Reddy Bandi
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthreddybandi" alt="hemanthreddybandi" /></a> </p>
+<h3 align="center">
+  Computer Science Engineer • Java Developer • Full Stack Developer • AI/ML Enthusiast
+</h3>
 
-<p align="left"> <a href="https://twitter.com/i_mhemanthreddy" target="blank"><img src="https://img.shields.io/twitter/follow/i_mhemanthreddy?logo=twitter&style=for-the-badge" alt="i_mhemanthreddy" /></a> </p>
-
-- 🌱 I’m currently learning **DSA,MERN STACK,PYTHON LIBRARIES AND MACHINE LEARNING**
-
-- 👨‍💻 All of my projects are available at: [MY_Portfolio](https://hemanthreddybandi.github.io/MY_portfolio/)
-
-- 📝 I regularly share insights and trending tech at: [linktr.ee/BHR.Chronicle](https://linktr.ee/BHR.Chronicle)
-
-- 📫 How to reach me **hemanth.in22@gmail.com**
-
-<!-- 📄 Know about my experiences [https://drive.google.com/file/d/1MKOrmaCcfWFgJ_Ektg0ZQNBtZ3_UhMri/view?usp=drive_link](https://drive.google.com/file/d/1MKOrmaCcfWFgJ_Ektg0ZQNBtZ3_UhMri/view?usp=drive_link)-->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/hemanth-reddy-bandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-reddy-bandi" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/hemanth_reddy_22/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="hemanth_reddy_22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hemanth_reddy_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemanth_reddy_07" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hemanth_reddy_bandi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__hemanth_reddy_" height="30" width="40" /></a>
-<a href="https://twitter.com/i_mhemanthreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_mhemanthreddy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://hemanthreddybandi.github.io/MY_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/hemanth_reddy_22/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/hemanth_reddy_07">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthreddybandi&show_icons=true&locale=en&layout=compact" alt="hemanthreddybandi" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthreddybandi&show_icons=true&locale=en" alt="hemanthreddybandi" /></p>
+I'm a Computer Science Engineering graduate passionate about building **real-world software solutions** and continuously improving my problem-solving skills.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthreddybandi&" alt="hemanthreddybandi" /></p>
+My current focus is on:
+
+* ☕ **Java & Spring Boot**
+* 🧠 **Data Structures & Algorithms**
+* 🌐 **Full Stack Web Development**
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🗄️ **SQL & Database Systems**
+* ⚙️ **Backend Development & REST APIs**
+
+I enjoy turning ideas into working applications, understanding how systems work behind the scenes, and solving problems through clean and scalable code.
+
+> **Learn → Build → Solve → Improve → Repeat.**
+
+---
+
+## 🧑‍💻 What I'm Currently Working On
+
+```text
+☕ Java & Spring Boot
+🧠 Data Structures & Algorithms
+🌐 Full Stack Development
+🐍 Python & Data Science
+🤖 Machine Learning
+🗄️ PostgreSQL & SQL
+🏗️ Backend Architecture & REST APIs
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+</p>
+
+### Backend & Frameworks
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+</p>
+
+### AI / ML & Data
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### 🥗 ANNRAKSH — Food Wastage Prevention Platform
+
+A Java-based full-stack platform designed to help reduce food wastage by connecting food availability with people who need it.
+
+**Tech:** Java • Spring Boot • PostgreSQL • Spring Security • REST APIs
+
+---
+
+### 🤖 NEXUSHIRE — AI-Powered HR Interview System
+
+An AI-focused interview platform designed to simulate HR interviews and evaluate candidate responses.
+
+**Tech:** React • TypeScript • Tailwind CSS • Web Speech API • MediaRecorder API
+
+---
+
+### 💬 Multi-LLM Chatbot
+
+A multi-model AI chatbot integrating different LLM providers with additional real-time services.
+
+**Tech:** Python • FastAPI • React • OpenAI • Gemini • Grok • DeepSeek • News API • Weather API
+
+---
+
+### 🛒 BookMart
+
+A full-stack e-commerce application developed during my Diploma final-year project.
+
+**Tech:** HTML • CSS • JavaScript • jQuery • PHP • MySQL
+
+---
+
+## 🧠 Problem Solving
+
+I actively practice programming problems and algorithms through multiple platforms.
+
+<p align="center">
+  <a href="https://leetcode.com/u/hemanth_reddy_22/">
+    <img src="https://img.shields.io/badge/LeetCode-hemanth__reddy__22-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/hemanth_reddy_07">
+    <img src="https://img.shields.io/badge/HackerRank-hemanth__reddy__07-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+</p>
+
+**Current DSA focus:**
+
+`Arrays` → `Hashing` → `Searching & Sorting` → `Stacks & Queues` → `Greedy` → `Linked Lists` → `Trees` → `Recursion` → `Backtracking` → `Dynamic Programming` → `Graphs`
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanthreddybandi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthreddybandi&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthreddybandi&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/hemanth-reddy-bandi">
+<img src="https://img.shields.io/badge/LinkedIn-Hemanth%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/hemanth_reddy_22/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/hemanth_reddy_07">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/hemanth_reddy_bandi/">
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/i_mhemanthreddy">
+<img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📬 Get In Touch
+
+<p align="center">
+  <a href="mailto:hemanth.in22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hemanth.in22%40gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>💡 Building today. Solving tomorrow. Growing every day.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemanthreddybandi&label=Profile%20Views&color=red&style=flat-square" />
+</p>
