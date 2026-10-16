@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a Computer Science Engineering graduate with a strong interest in **software development, problem-solving, backend engineering, full-stack development, and AI/ML**.
 
@@ -38,36 +38,36 @@ I enjoy transforming ideas into practical applications and understanding how sys
 
 ### What drives me
 
-* ☕ Writing clean and maintainable **Java** code
-* 🧠 Strengthening my **Data Structures & Algorithms**
-* ⚙️ Building backend systems with **Spring Boot**
-* 🌐 Developing modern **full-stack applications**
-* 🤖 Exploring **AI, Machine Learning and LLM-based applications**
-* 🗄️ Working with **SQL and relational databases**
-* 🚀 Continuously learning and improving as a developer
+*  Writing clean and maintainable **Java** code
+*  Strengthening my **Data Structures & Algorithms**
+*  Building backend systems with **Spring Boot**
+*  Developing modern **full-stack applications**
+*  Exploring **AI, Machine Learning and LLM-based applications**
+*  Working with **SQL and relational databases**
+*  Continuously learning and improving as a developer
 
 > **Learn → Build → Solve → Improve → Repeat.**
 
 ---
 
-## 🧑‍💻 Currently Learning & Building
+##  Currently Learning & Building
 
 ```text
-☕ Java + Spring Boot
-🧠 Data Structures & Algorithms
-🌐 Full Stack Development
-🐍 Python + Data Science
-🤖 Machine Learning + AI
-🗄️ PostgreSQL + SQL
-🔌 REST APIs
-🏗️ Backend Architecture
+ Java + Spring Boot
+ Data Structures & Algorithms
+ Full Stack Development
+ Python + Data Science
+ Machine Learning + AI
+ PostgreSQL + SQL
+ REST APIs
+ Backend Architecture
 ```
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
@@ -78,7 +78,7 @@ I enjoy transforming ideas into practical applications and understanding how sys
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
@@ -86,7 +86,7 @@ I enjoy transforming ideas into practical applications and understanding how sys
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
@@ -96,7 +96,7 @@ I enjoy transforming ideas into practical applications and understanding how sys
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
-### 🗄️ Databases & Development Tools
+###  Databases & Development Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
@@ -107,7 +107,7 @@ I enjoy transforming ideas into practical applications and understanding how sys
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
 </p>
 
-### 🤖 AI / ML & Data Science
+###  AI / ML & Data Science
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
@@ -119,7 +119,7 @@ I enjoy transforming ideas into practical applications and understanding how sys
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
@@ -181,13 +181,13 @@ A full-stack e-commerce application developed as my Diploma final-year project.
 
 <p align="center">
   <a href="https://hemanthreddybandi.github.io/MY_portfolio/" target="_blank">
-    <b>🚀 Explore More Projects →</b>
+    <b> Explore More Projects →</b>
   </a>
 </p>
 
 ---
 
-# 🧠 Problem Solving
+#  Problem Solving
 
 I regularly practice **Data Structures & Algorithms** and programming problems.
 
@@ -259,7 +259,7 @@ I regularly practice **Data Structures & Algorithms** and programming problems.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 <p align="center">
   <a href="mailto:hemanth.in22@gmail.com">
