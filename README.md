@@ -125,7 +125,7 @@ I enjoy transforming ideas into practical applications and understanding how sys
 <tr>
 <td width="50%">
 
-### 🥗 ANNRAKSH
+###  ANNRAKSH
 
 **Food Wastage Prevention Platform**
 
@@ -139,7 +139,7 @@ A Java full-stack platform focused on reducing food wastage by connecting availa
 
 <td width="50%">
 
-### 🤖 NEXUSHIRE
+###  NEXUSHIRE
 
 **AI-Powered HR Interview System**
 
@@ -155,7 +155,7 @@ An interactive interview platform designed to simulate HR interviews and evaluat
 <tr>
 <td width="50%">
 
-### 💬 Multi-LLM Chatbot
+###  Multi-LLM Chatbot
 
 A chatbot integrating multiple AI models with real-time news and weather services.
 
@@ -167,7 +167,7 @@ A chatbot integrating multiple AI models with real-time news and weather service
 
 <td width="50%">
 
-### 🛒 BookMart
+###  BookMart
 
 A full-stack e-commerce application developed as my Diploma final-year project.
 
